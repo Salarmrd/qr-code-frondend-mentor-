@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $Lightgray;
+  color: white;
+  font-family: "Outfit", sans-serif;
+
+  h1 {
+    color: $Darkblue;
+    font-size: 21px;
+  }
+
+  p {
+    font-size: 15px;
+    color: $Grayishblue;
+  }
+}
